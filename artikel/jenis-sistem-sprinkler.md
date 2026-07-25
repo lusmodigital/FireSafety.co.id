@@ -1,0 +1,182 @@
+---
+article_id: FS-10-A02
+title: "Wet, Dry, Preaction, dan Deluge: Perbedaan Sistem Sprinkler"
+slug: "jenis-sistem-sprinkler"
+description: "Compare pipe state, activation sequence, application, complexity, and failure modes"
+status: outline
+publication_date: "2025-08-28"
+publication_date_basis: editorial_backfill
+date_modified: null
+parent_topic: FS-10
+primary_intent: "Compare sprinkler system types"
+reader_community: "Firesafety.co.id"
+reader_address: "Teman Firesafety.co.id"
+final_route: "/artikel/jenis-sistem-sprinkler.html"
+technical_review: required
+sources:
+  - "https://peraturan.bpk.go.id/Details/104475/permen-pupr-no-26prtm2008-tahun-2008"
+  - "https://pesta.bsn.go.id/produk/index/"
+  - "https://peraturan.bpk.go.id/Details/44487/uu-no-28-tahun-2002"
+  - "https://www.iso.org/ics/13.220.20/x/"
+  - "https://www.iso.org/search.html?q=ISO%206182-1"
+  - "https://www.iso.org/standard/57982.html"
+  - "https://www.iso.org/standard/75444.html"
+  - "https://www.iso.org/standard/70017.html"
+---
+
+<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+
+# Wet, Dry, Preaction, dan Deluge: Perbedaan Sistem Sprinkler
+
+## Assignment lock
+
+- **Writer task:** Expand this file into one complete article answering: “Wet, Dry, Preaction, dan Deluge: Perbedaan Sistem Sprinkler”
+- **Reader and situation:** Owner with varied environments
+- **Reader outcome:** Compare pipe state, activation sequence, application, complexity, and failure modes
+- **Primary intent:** Compare sprinkler system types
+- **Reader community:** `Firesafety.co.id`
+- **Primary friendly address:** `Teman Firesafety.co.id`
+- **Natural variants:** `Sobat Firesafety.co.id` and `Kawan Firesafety.co.id`
+- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
+- **Scope boundary:** Excludes special-agent systems; see FS-11-A01
+- **Final public route:** `/artikel/jenis-sistem-sprinkler.html`
+- **Appointed CMS date:** `2025-08-28` (`editorial_backfill`; preserve exactly)
+- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
+- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+
+## Opening instructions
+
+- Open with the exact short salutation: **“Halo, Teman Firesafety.co.id!”**
+- Start with the concrete decision, confusion, risk, or costly shortcut behind **Wet, Dry, Preaction, dan Deluge: Perbedaan Sistem Sprinkler**.
+- Give the short answer within the first two or three paragraphs.
+- State what evidence or condition can change that answer.
+- Later, sprinkle `Teman Firesafety.co.id`, `Sobat Firesafety.co.id`, or `Kawan Firesafety.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
+- Do not use a generic industry-history or “Di era digital” introduction.
+
+## Evidence packet
+
+Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+
+### KR-26
+
+- **Original sources:** [Permen PUPR No. 26/PRT/M/2008 record](https://peraturan.bpk.go.id/Details/104475/permen-pupr-no-26prtm2008-tahun-2008), [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/), [UU No. 28 Tahun 2002 status](https://peraturan.bpk.go.id/Details/44487/uu-no-28-tahun-2002).
+- **Purpose for this article:** Ground legal/standard discovery and edition control.
+- **Safe grounded facts:** A catalogue record proves visible identity/status, not proprietary clauses or applicability; local PBG/SLF and fire-authority evidence remain project-specific.
+- **Limits:** Build a dated project legal register and inspect current full texts before quoting requirements, quantities, intervals, ratings, or compliance.
+
+### KR-30
+
+- **Original sources:** [ISO 6182 fire-protection catalogue](https://www.iso.org/ics/13.220.20/x/), [BSN SNI catalogue](https://pesta.bsn.go.id/produk/index/).
+- **Purpose for this article:** Ground hydrants, standpipes, hose reels, fire-department connections, water source, pumps, valves, piping, and sprinklers as linked systems.
+- **Safe grounded facts:** Static pressure, residual pressure, flow, pump curve, tank level, valve position, alarm signal, leakage, and inspection/test records answer different questions.
+- **Limits:** No tank size, pump duty, pipe size, pressure, flow, outlet, spacing, duration, test, or firefighter-use instruction without current full standards and hydraulic design.
+
+### KR-31
+
+- **Original sources:** [ISO 6182 fire-protection catalogue](https://www.iso.org/ics/13.220.20/x/), [ISO 6182-1 catalogue search](https://www.iso.org/search.html?q=ISO%206182-1).
+- **Purpose for this article:** Ground sprinkler operation, system types, hazard inputs, obstructions, valves, acceptance, impairment, and maintenance while correcting common myths.
+- **Safe grounded facts:** Head model/orifice/temperature/response, spacing, obstruction, density/area method, pipe network, valve state, water supply, and commissioning are distinct.
+- **Limits:** No hazard class, spacing, temperature, density, remote area, pipe, or acceptance calculation from catalogue abstracts or generic articles.
+
+### KR-39
+
+- **Original sources:** [ISO 7240-14:2013](https://www.iso.org/standard/57982.html), [ISO 7240-13:2020](https://www.iso.org/standard/75444.html), [ISO 19011:2018 audit guidance](https://www.iso.org/standard/70017.html).
+- **Purpose for this article:** Ground submittals, approved design, installation records, acceptance, cause-effect/integration, as-builts, defects, impairment, periodic inspection, and change control.
+- **Safe grounded facts:** Baseline design, approved changes, device inventory, test method/instrument, observed result, defect severity, corrective action, retest, handover, and ongoing impairment history all matter.
+- **Limits:** No acceptance criterion, frequency, sample, pass/fail, impairment priority, or compliance statement without current project rules and competent witnesses.
+
+## Evidence gates
+
+- **TOPIC-GATE:** EG-01, EG-02, EG-07, EG-09
+
+If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+
+## Internal-link plan
+
+### Existing local routes
+
+- `/` — fallback home route; use only when it is genuinely useful.
+
+### Planned sibling articles
+
+These are future routes. Do not link them as live until their HTML exists.
+
+- `FS-10-A01` → `/artikel/cara-kerja-sprinkler-kebakaran.html` — Cara Kerja Sprinkler Kebakaran dan Mengapa Tidak Semua Head Menyala
+- `FS-10-A03` → `/artikel/jenis-sprinkler-head.html` — Jenis Sprinkler Head, Suhu, Posisi, dan Risiko Salah Pasang
+- `FS-10-A04` → `/artikel/obstruction-sprinkler-dan-tata-ruang.html` — Barang Menutup Sprinkler: Memahami Obstruction dan Perubahan Tata Ruang
+
+<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+
+## Masalah keputusan yang sebenarnya
+
+- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
+- **Tie back to this article:** Keep the explanation specific to “Wet, Dry, Preaction, dan Deluge: Perbedaan Sistem Sprinkler”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Bedakan objek sebelum membandingkan
+
+- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
+- **Tie back to this article:** Keep the explanation specific to “Wet, Dry, Preaction, dan Deluge: Perbedaan Sistem Sprinkler”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Kriteria perbandingan yang relevan
+
+- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
+- **Tie back to this article:** Keep the explanation specific to “Wet, Dry, Preaction, dan Deluge: Perbedaan Sistem Sprinkler”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Kapan masing-masing pilihan masuk akal
+
+- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
+- **Tie back to this article:** Keep the explanation specific to “Wet, Dry, Preaction, dan Deluge: Perbedaan Sistem Sprinkler”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Kesalahan perbandingan yang sering terjadi
+
+- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
+- **Tie back to this article:** Keep the explanation specific to “Wet, Dry, Preaction, dan Deluge: Perbedaan Sistem Sprinkler”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Bukti yang perlu diminta sebelum memilih
+
+- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
+- **Tie back to this article:** Keep the explanation specific to “Wet, Dry, Preaction, dan Deluge: Perbedaan Sistem Sprinkler”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Objection or shortcut to address
+
+- Identify one realistic shortcut a reader may prefer.
+- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
+- Give the safer or more reliable alternative.
+
+## Required conclusion
+
+- Answer the title again in one compact, non-repetitive form.
+- Give the reader the next action, document, question, inspection, or professional review to obtain.
+- End with an operating rule or honest boundary. Do not end with a generic summary.
+
+## Draft completion checklist
+
+- [ ] Opening answers the main question within two or three paragraphs.
+- [ ] The article opens with `Halo, Teman Firesafety.co.id!` and uses friendly `Firesafety.co.id` community address naturally three to five times total.
+- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
+- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
+- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
+- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
+- [ ] Internal links use exact listed routes and helpful natural anchors.
+- [ ] Future sibling routes are not presented as live.
+- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
+- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
+- [ ] Conclusion gives a concrete next action and an honest limit.

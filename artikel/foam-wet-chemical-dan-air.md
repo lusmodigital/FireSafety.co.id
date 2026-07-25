@@ -1,0 +1,182 @@
+---
+article_id: FS-03-A04
+title: "Foam, Wet Chemical, dan Air: Perbedaan untuk Cairan, Minyak Masak, dan Padatan"
+slug: "foam-wet-chemical-dan-air"
+description: "Distinguish cooling, blanketing, saponification, and incompatible hazards"
+status: outline
+publication_date: "2025-03-20"
+publication_date_basis: editorial_backfill
+date_modified: null
+parent_topic: FS-03
+primary_intent: "Compare liquid agents"
+reader_community: "Firesafety.co.id"
+reader_address: "Sobat Firesafety.co.id"
+final_route: "/artikel/foam-wet-chemical-dan-air.html"
+technical_review: required
+sources:
+  - "https://peraturan.bpk.go.id/Details/104475/permen-pupr-no-26prtm2008-tahun-2008"
+  - "https://www.iso.org/sectors/building-construction/fire-safety"
+  - "https://www.nist.gov/el/fire-research-division"
+  - "https://www.iso.org/search.html?q=ISO%2011602"
+  - "https://jdih.kemnaker.go.id/asset/data_puu/peraturan_file_PER04_1980.pdf"
+  - "https://www.iso.org/search.html?q=ISO%2014520"
+  - "https://www.iso.org/ics/13.220.20/x/"
+---
+
+<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+
+# Foam, Wet Chemical, dan Air: Perbedaan untuk Cairan, Minyak Masak, dan Padatan
+
+## Assignment lock
+
+- **Writer task:** Expand this file into one complete article answering: “Foam, Wet Chemical, dan Air: Perbedaan untuk Cairan, Minyak Masak, dan Padatan”
+- **Reader and situation:** Kitchen or facility buyer
+- **Reader outcome:** Distinguish cooling, blanketing, saponification, and incompatible hazards
+- **Primary intent:** Compare liquid agents
+- **Reader community:** `Firesafety.co.id`
+- **Primary friendly address:** `Sobat Firesafety.co.id`
+- **Natural variants:** `Kawan Firesafety.co.id` and `Teman Firesafety.co.id`
+- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
+- **Scope boundary:** Excludes kitchen fixed systems; see FS-11-A02
+- **Final public route:** `/artikel/foam-wet-chemical-dan-air.html`
+- **Appointed CMS date:** `2025-03-20` (`editorial_backfill`; preserve exactly)
+- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
+- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+
+## Opening instructions
+
+- Open with the exact short salutation: **“Halo, Sobat Firesafety.co.id!”**
+- Start with the concrete decision, confusion, risk, or costly shortcut behind **Foam, Wet Chemical, dan Air: Perbedaan untuk Cairan, Minyak Masak, dan Padatan**.
+- Give the short answer within the first two or three paragraphs.
+- State what evidence or condition can change that answer.
+- Later, sprinkle `Sobat Firesafety.co.id`, `Kawan Firesafety.co.id`, or `Teman Firesafety.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
+- Do not use a generic industry-history or “Di era digital” introduction.
+
+## Evidence packet
+
+Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+
+### KR-12
+
+- **Original sources:** [Permen PUPR No. 26/PRT/M/2008 record](https://peraturan.bpk.go.id/Details/104475/permen-pupr-no-26prtm2008-tahun-2008), [ISO fire-safety standards overview](https://www.iso.org/sectors/building-construction/fire-safety).
+- **Purpose for this article:** Connect prevention, detection, notification, containment, suppression, egress, impairment, maintenance, and emergency organization.
+- **Safe grounded facts:** A device certificate, installation record, commissioning test, inspection, impairment log, evacuation drill, and authority approval prove different layers.
+- **Limits:** Confirm current PUPR/local rules and full standards; no spacing, capacity, hydraulic, alarm, egress, fire-rating, occupancy, or compliance conclusion.
+
+### KR-25
+
+- **Original sources:** [NIST Fire Research Division](https://www.nist.gov/el/fire-research-division), [ISO fire-safety engineering collection](https://www.iso.org/sectors/building-construction/fire-safety).
+- **Purpose for this article:** Ground combustion, ignition, heat transfer, growth, smoke, tenability, and extinguishment concepts without turning simplified diagrams into predictions.
+- **Safe grounded facts:** The triangle/tetrahedron is a teaching model. Flashover, backdraft, smoke movement, heat release, toxicity, and tenability require scenario and measurement evidence.
+- **Limits:** No ignition temperature, fire-load, growth rate, tenability time, toxicity, or forensic cause without matched primary data and fire-science review.
+
+### KR-27
+
+- **Original sources:** [ISO 11602-1 catalogue search](https://www.iso.org/search.html?q=ISO%2011602), [Kemnaker PER.04/MEN/1980 official PDF](https://jdih.kemnaker.go.id/asset/data_puu/peraturan_file_PER04_1980.pdf).
+- **Purpose for this article:** Ground media/rating selection, placement, trained use, inspection, service, and retirement without unsafe universal instructions.
+- **Safe grounded facts:** Cylinder identity, agent, rating, approval, location, visibility, seal/gauge/weight/condition, service record, manufacturer instructions, and safe escape are separate checks.
+- **Limits:** No quantity, travel distance, mounting, PASS-like action, refill, hydrotest, agent transfer, repair, or use decision without current rules, manufacturer evidence, and competent service.
+
+### KR-32
+
+- **Original sources:** [ISO 14520 gaseous systems catalogue search](https://www.iso.org/search.html?q=ISO%2014520), [ISO 6182 fire-protection catalogue](https://www.iso.org/ics/13.220.20/x/).
+- **Purpose for this article:** Ground kitchen wet chemical, foam, water mist, clean agent, inert gas, halocarbon, and carbon-dioxide systems without generic substitution.
+- **Safe grounded facts:** Agent approval, concentration, quantity, nozzle network, enclosure integrity, detection/release logic, warning, abort/manual controls, pressure relief, commissioning, and room use differ.
+- **Limits:** No agent, concentration, quantity, flooding time, nozzle, pressure, interlock, occupancy, or discharge instruction without full current standards, product evidence, and competent design.
+
+## Evidence gates
+
+- **TOPIC-GATE:** EG-01, EG-02, EG-09
+
+If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+
+## Internal-link plan
+
+### Existing local routes
+
+- `/` — fallback home route; use only when it is genuinely useful.
+
+### Planned sibling articles
+
+These are future routes. Do not link them as live until their HTML exists.
+
+- `FS-03-A02` → `/artikel/apar-powder-kelebihan-dan-kekurangan.html` — APAR Powder: Kelebihan, Residu, Korosi, dan Batas Penggunaannya
+- `FS-03-A03` → `/artikel/apar-co2-untuk-peralatan-listrik.html` — APAR CO2 untuk Peralatan Listrik: Cocok di Mana dan Berbahaya di Mana
+- `FS-03-A05` → `/artikel/membaca-rating-dan-kapasitas-apar.html` — Membaca Rating dan Kapasitas APAR Tanpa Menebak Daya Padam
+- `FS-03-A06` → `/artikel/apar-clean-agent-portable.html` — Clean Agent Portable: Residu Rendah, Keselamatan, dan Klaim Lingkungan
+
+<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+
+## Masalah keputusan yang sebenarnya
+
+- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
+- **Tie back to this article:** Keep the explanation specific to “Foam, Wet Chemical, dan Air: Perbedaan untuk Cairan, Minyak Masak, dan Padatan”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Bedakan objek sebelum membandingkan
+
+- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
+- **Tie back to this article:** Keep the explanation specific to “Foam, Wet Chemical, dan Air: Perbedaan untuk Cairan, Minyak Masak, dan Padatan”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Kriteria perbandingan yang relevan
+
+- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
+- **Tie back to this article:** Keep the explanation specific to “Foam, Wet Chemical, dan Air: Perbedaan untuk Cairan, Minyak Masak, dan Padatan”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Kapan masing-masing pilihan masuk akal
+
+- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
+- **Tie back to this article:** Keep the explanation specific to “Foam, Wet Chemical, dan Air: Perbedaan untuk Cairan, Minyak Masak, dan Padatan”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Kesalahan perbandingan yang sering terjadi
+
+- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
+- **Tie back to this article:** Keep the explanation specific to “Foam, Wet Chemical, dan Air: Perbedaan untuk Cairan, Minyak Masak, dan Padatan”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Bukti yang perlu diminta sebelum memilih
+
+- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
+- **Tie back to this article:** Keep the explanation specific to “Foam, Wet Chemical, dan Air: Perbedaan untuk Cairan, Minyak Masak, dan Padatan”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Objection or shortcut to address
+
+- Identify one realistic shortcut a reader may prefer.
+- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
+- Give the safer or more reliable alternative.
+
+## Required conclusion
+
+- Answer the title again in one compact, non-repetitive form.
+- Give the reader the next action, document, question, inspection, or professional review to obtain.
+- End with an operating rule or honest boundary. Do not end with a generic summary.
+
+## Draft completion checklist
+
+- [ ] Opening answers the main question within two or three paragraphs.
+- [ ] The article opens with `Halo, Sobat Firesafety.co.id!` and uses friendly `Firesafety.co.id` community address naturally three to five times total.
+- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
+- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
+- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
+- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
+- [ ] Internal links use exact listed routes and helpful natural anchors.
+- [ ] Future sibling routes are not presented as live.
+- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
+- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
+- [ ] Conclusion gives a concrete next action and an honest limit.
